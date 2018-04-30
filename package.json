@@ -1,0 +1,22 @@
+{
+  "name": "pentwi11",
+  "version": "1.0.0",
+  "description": "paquetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelAlejandroH/PENTWI11.git"
+  },
+  "author": "Alejandro Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelAlejandroH/PENTWI11/issues"
+  },
+  "homepage": "https://github.com/ManuelAlejandroH/PENTWI11#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
